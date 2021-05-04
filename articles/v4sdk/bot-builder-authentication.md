@@ -167,8 +167,8 @@ The next step is to register with your bot the Azure AD application that you jus
 #### Azure AD v1
 
 1. Navigate to your bot's resource page on the [Azure Portal](https://portal.azure.com/).
-1. Click **Settings**.
-1. Under **OAuth Connection Settings** near the bottom of the page, click **Add Setting**.
+1. Click **Configuration**.
+1. Under **No OAuth Connection settings defined** near the bottom of the page, click **Add OAuth Connection Settings**.
 1. Fill in the form as follows:
 
     1. For **Name**, enter a name for your connection. You'll use this name in your bot code.
